@@ -11,14 +11,14 @@ h1{
     font-family:'Times New Roman', Times, serif;
     font: size 15px;
 }
-
+/*create horizontal list*/ 
 #recipes {
 
     list-style-type: none;
-  
     margin: 0;
-  
     padding: 0;
+    text-align: center;
+
   
   }
   
