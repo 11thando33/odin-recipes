@@ -5,3 +5,7 @@ h1{
     font-family:'Times New Roman', Times, serif;
 
 }
+
+@keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
