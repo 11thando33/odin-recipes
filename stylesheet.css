@@ -11,3 +11,24 @@ h1{
     font-family:'Times New Roman', Times, serif;
     font: size 15px;
 }
+
+#recipes {
+
+    list-style-type: none;
+  
+    margin: 0;
+  
+    padding: 0;
+  
+  }
+  
+  
+  
+  li {
+  
+    display: inline-block;
+  
+    margin-right: 10px; /* Adjust spacing between list items */
+  
+  } 
+  
