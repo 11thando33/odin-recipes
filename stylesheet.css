@@ -23,12 +23,12 @@ h1{
   }
   
   
-  
-  li {
+  /* Adjust spacing between list items */
+  #recipes {
   
     display: inline-block;
   
-    margin-right: 10px; /* Adjust spacing between list items */
+    margin-right: 10px; 
   
   } 
   
