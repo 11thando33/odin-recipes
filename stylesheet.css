@@ -6,6 +6,8 @@ h1{
 
 }
 
-@keyframes mymove {
-    from {background-color: red;}
-    to {background-color: blue;}
+.paragragh{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font: size 15px; ;
+}
