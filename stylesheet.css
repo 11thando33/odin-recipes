@@ -12,23 +12,15 @@ h1{
     font: size 15px;
 }
 /*create horizontal list*/ 
-#recipes {
+.recipes {
 
     list-style-type: none;
     margin: 0;
     padding: 0;
     text-align: center;
-
-  
   }
   
   
   /* Adjust spacing between list items */
-  #recipes {
-  
-    display: inline-block;
-  
-    margin-right: 10px; 
-  
-  } 
+
   
